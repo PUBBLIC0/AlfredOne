@@ -2,6 +2,7 @@
 
 
 This prototype was realised for the Videogame Design and Programming course, jointly with the Università Statale di Milano and Politecnico di Milano.
+In case you experience problems or errors with the Mac version I suggest this guide: https://youtu.be/sWSySXfR17c
 
 AlfredOne is a game that can be played in Singol Player mode or in Co-op mode. (For more fun it is strongly suggested to play the Co-op mode).
 
@@ -23,6 +24,7 @@ Giorgio Castiglioni
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Questo prototipo è stato realizzato per il corso di Videogame Design and Programming, in collaborazione con l'Università Statale di Milano e il Politecnico di Milano.
+Nel caso in cui si verifichino problemi o errori con la versione Mac suggerisco questa guida: https://youtu.be/sWSySXfR17c
 
 AlfredOne è un gioco che può essere giocato in modalità Singol Player o in modalità Co-op. (Per un maggiore divertimento è fortemente consigliato giocare in modalità Co-op).
 
