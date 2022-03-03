@@ -12,6 +12,8 @@ To pass the levels the clones will have to interact with each other by exchangin
 Welcome to AllfredOne's World!
 Our story starts when AllfredOne move in a new house, and as usual his clones must do all the work...
 
+Game download link: https://polimi-game-collective.itch.io/allfredone
+
 
 Team members:
 
@@ -33,6 +35,8 @@ Per superare i livelli i cloni dovranno interagire tra loro scambiandosi statist
 
 Benvenuti nel mondo di AllfredOne!
 La nostra storia inizia quando AllfredOne si trasferisce in una nuova casa, e come al solito i suoi cloni devono fare tutto il lavoro...
+
+Link per scaricare il gioco: https://polimi-game-collective.itch.io/allfredone
 
 
 Team members:
